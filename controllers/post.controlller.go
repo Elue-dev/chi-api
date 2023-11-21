@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/elue-dev/chi-api/helpers"
-	"github.com/elue-dev/chi-api/initializers"
-	"github.com/elue-dev/chi-api/models"
+	"github.com/elue-dev/gin-api/helpers"
+	"github.com/elue-dev/gin-api/initializers"
+	"github.com/elue-dev/gin-api/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

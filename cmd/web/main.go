@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/elue-dev/chi-api/controllers"
-	"github.com/elue-dev/chi-api/initializers"
+	"github.com/elue-dev/gin-api/controllers"
+	"github.com/elue-dev/gin-api/initializers"
 	"github.com/gin-gonic/gin"
 )
 

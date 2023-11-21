@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/elue-dev/chi-api/models"
+	"github.com/elue-dev/gin-api/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

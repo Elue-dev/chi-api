@@ -1,6 +1,6 @@
 package helpers
 
-import "github.com/elue-dev/chi-api/models"
+import "github.com/elue-dev/gin-api/models"
 
 func ValidatePostFields(title, desc, category string) bool  {
 	if title == "" || desc == "" || category == "" {

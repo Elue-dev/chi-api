@@ -1,4 +1,4 @@
-module github.com/elue-dev/chi-api
+module github.com/elue-dev/gin-api
 
 go 1.20
 
